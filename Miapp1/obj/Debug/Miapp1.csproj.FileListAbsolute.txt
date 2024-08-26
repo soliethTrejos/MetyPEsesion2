@@ -1,0 +1,10 @@
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\C#Sesion2\Miapp1\bin\Debug\Miapp1.exe.config
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\C#Sesion2\Miapp1\bin\Debug\Miapp1.exe
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\C#Sesion2\Miapp1\bin\Debug\Miapp1.pdb
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\C#Sesion2\Miapp1\obj\Debug\Miapp1.csproj.AssemblyReference.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\C#Sesion2\Miapp1\obj\Debug\Miapp1.Properties.Resources.resources
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\C#Sesion2\Miapp1\obj\Debug\Miapp1.csproj.GenerateResource.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\C#Sesion2\Miapp1\obj\Debug\Miapp1.csproj.CoreCompileInputs.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\C#Sesion2\Miapp1\obj\Debug\Miapp1.exe
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\C#Sesion2\Miapp1\obj\Debug\Miapp1.pdb
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\C#Sesion2\Miapp1\obj\Debug\Miapp1.Form1.resources
